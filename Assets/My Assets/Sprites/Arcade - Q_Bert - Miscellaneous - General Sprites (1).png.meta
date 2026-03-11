@@ -955,12 +955,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_0
+      name: Bert looking top R
       rect:
         serializedVersion: 2
         x: 0
         y: 367
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -977,12 +977,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_1
+      name: Bert looking more Top R
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 367
-        width: 32
+        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -999,12 +999,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_2
+      name: Bert looking more top L
       rect:
         serializedVersion: 2
-        x: 47
+        x: 48
         y: 367
-        width: 17
+        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1021,12 +1021,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_3
+      name: qbert lives icon R
       rect:
         serializedVersion: 2
-        x: 63
+        x: 64
         y: 367
-        width: 17
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1043,12 +1043,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_4
+      name: Bert looking B R
       rect:
         serializedVersion: 2
-        x: 79
+        x: 80
         y: 367
-        width: 17
+        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1065,12 +1065,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_5
+      name: qbert lives icon L
       rect:
         serializedVersion: 2
-        x: 96
+        x: 97
         y: 367
-        width: 17
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1087,7 +1087,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_6
+      name: Bert Looking B L
       rect:
         serializedVersion: 2
         x: 112
@@ -2077,13 +2077,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_51
+      name: Coli looking TR
       rect:
         serializedVersion: 2
-        x: 1
-        y: 319
-        width: 31
-        height: 44
+        x: 16
+        y: 320
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2121,13 +2121,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_53
+      name: Coli looking TL
       rect:
         serializedVersion: 2
-        x: 32
+        x: 48
         y: 320
-        width: 32
-        height: 42
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2143,13 +2143,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_54
+      name: Coli looking R
       rect:
         serializedVersion: 2
-        x: 64
+        x: 80
         y: 320
-        width: 33
-        height: 46
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3177,7 +3177,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_101
+      name: Coli looking L
       rect:
         serializedVersion: 2
         x: 111
@@ -3551,7 +3551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_118
+      name: Coli looking L S
       rect:
         serializedVersion: 2
         x: 96
@@ -4475,16 +4475,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_160
+      name: QBert looking top right
       rect:
         serializedVersion: 2
-        x: 224
-        y: 271
-        width: 33
-        height: 41
+        x: 226
+        y: 272
+        width: 31
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 2, y: 1, z: 0, w: 6}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -4497,7 +4497,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_161
+      name: QBert looking more top right
       rect:
         serializedVersion: 2
         x: 260
@@ -4519,7 +4519,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_162
+      name: QBert looking Backwards
       rect:
         serializedVersion: 2
         x: 294
@@ -4541,7 +4541,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_163
+      name: QBert looking top left
       rect:
         serializedVersion: 2
         x: 321
@@ -4563,7 +4563,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_164
+      name: QBert looking left
       rect:
         serializedVersion: 2
         x: 352
@@ -4585,7 +4585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_165
+      name: QBert looking bottom left
       rect:
         serializedVersion: 2
         x: 383
@@ -5157,7 +5157,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_191
+      name: Arrow R
       rect:
         serializedVersion: 2
         x: 263
@@ -5179,7 +5179,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_192
+      name: Arrow L
       rect:
         serializedVersion: 2
         x: 272
@@ -7203,28 +7203,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_284
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 720
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 015bce26209419dc0800000000000000
-      internalID: -3634043149712837360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_285
       rect:
         serializedVersion: 2
@@ -7907,7 +7885,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_316
+      name: Square T
       rect:
         serializedVersion: 2
         x: 0
@@ -7929,7 +7907,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_317
+      name: M Square T
       rect:
         serializedVersion: 2
         x: 32
@@ -7951,7 +7929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_318
+      name: Square not T
       rect:
         serializedVersion: 2
         x: 0
@@ -7973,7 +7951,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Q_Bert - Miscellaneous - General Sprites (1)_319
+      name: M Square not T
       rect:
         serializedVersion: 2
         x: 32
@@ -8126,6 +8104,380 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Bert looking top L
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3112c59973dd4f8d5602b706ec91f
+      internalID: -1245603549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coli looking R S
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ba8e5a327d904c829158698cf4ddf
+      internalID: -801135007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coli looking TLS
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d2c53dabe05045b8bd93ccf67d31f
+      internalID: -201698588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coli looking TRS
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afb0b75f9bc8442902706f4f693f61
+      internalID: 916875504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ball R
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bdc87e6fa7ed842b8abaaba47e2a20
+      internalID: -2019290433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ball S
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c86405dc59414db45a52445d998d2
+      internalID: -521301258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Ball R
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1939bd27aa6a4a46b5bc51c30bd361f
+      internalID: 1097769564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green ball S
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 352
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030f79390337ec478e44a9df2f3f5ea
+      internalID: 1057155168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Ball R
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 352
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b9d02b650db34b97be3360b47ffe0
+      internalID: -1878045980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red ball S
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 352
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b88cfda47d9a646b6ea3b38b31d1e2
+      internalID: -485085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44add8f0f6873fc4a8c940f22f1681d0
+      internalID: 1806056995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator 2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaa932c63ba97c479f7f4005fde5c20
+      internalID: 1683173380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator 3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657ad518a29d344d9b2c14bc988911d
+      internalID: -1200038274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator 4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79637f1d679da548821a27409f17d86
+      internalID: 1950956586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator 5 Used
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece54ea865a1024bae6fa7a7b155306
+      internalID: 1675447864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Cube Y
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79e91c5391c954ca20592b5986197d
+      internalID: -420219195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Cube B
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0672137ee0efe58418de8e280c783bed
+      internalID: 1292228331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -8140,11 +8492,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_0: 7329533981879916679
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_1: -2399544423530212532
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_10: 6550898790637519435
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_100: 3838755746398242955
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_101: -6202240153802655831
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_102: 1061128278382685420
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_103: -4010829493805890419
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_104: -6308427055131530406
@@ -8162,7 +8511,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_115: -7120410477268470412
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_116: -1604427440790194718
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_117: -6039237248580335080
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_118: -934175774179417901
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_119: 8405908002955937658
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_12: -3862522545846753211
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_120: 1337591595909953012
@@ -8209,12 +8557,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_158: 3139513796059377368
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_159: -815588396131183346
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_16: -5035310203627601515
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_160: -2465350454401272783
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_161: -1169813508023199180
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_162: -5885225234271612171
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_163: 6815380662746787979
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_164: -5168313174812866197
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_165: 8305611035590491804
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_166: -5414656215422255384
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_167: 7829706008651750905
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_168: 8251840882836515594
@@ -8243,8 +8585,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_189: 450955098220075854
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_19: -1581086395199443129
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_190: -4898523015715530999
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_191: 1979085301744057317
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_192: -8935470580138068070
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_193: -3635929091679574660
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_194: 2656832946620720838
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_195: 5762054202642528817
@@ -8252,7 +8592,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_197: 6030077409781471906
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_198: 1773168287716049715
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_199: 2881059297018057742
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_2: 9200966131050220466
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_20: 757789567911663947
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_200: 1169795806224866272
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_201: 1552266321321491483
@@ -8363,7 +8702,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_297: 953717319
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_298: 904247919
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_299: 624795669
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_3: 6657544215680913721
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_30: 1751627908908979082
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_300: 1253860275
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_301: 996328197
@@ -8382,10 +8720,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_313: -1453919366
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_314: 1354444992
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_315: -1335235499
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_316: -65459486
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_317: -913171444
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_318: 1405364067
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_319: 1173541423
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_32: 974812996993986275
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_320: 1921957071
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_321: 1432803177
@@ -8400,7 +8734,6 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_37: -6931295484421879279
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_38: 8150941339302254849
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_39: -3942175505297064634
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_4: 851478519135984019
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_40: 4121525192263115646
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_41: -2297659562210400917
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_42: -2081284677576520682
@@ -8411,18 +8744,13 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_47: -6187226154993833477
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_48: 8067912883437749830
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_49: -8338407811216361864
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_5: 445840719523252873
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_50: 8663097163818170169
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_51: 8760402443470717540
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_52: -4443963987196968858
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_53: -6949635812651794695
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_54: 3257481530781262157
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_55: 4902500747899007915
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_56: 8723975364525961262
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_57: -4653813674382214749
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_58: -8181253947308670837
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_59: -110191607271585165
-      Arcade - Q_Bert - Miscellaneous - General Sprites (1)_6: 233268978605601700
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_60: 3114673431698317521
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_61: 5998381019177045094
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_62: 7247650663155113580
@@ -8466,6 +8794,47 @@ TextureImporter:
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_97: -3041943986466196917
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_98: -4153885223091359491
       Arcade - Q_Bert - Miscellaneous - General Sprites (1)_99: 3057590796619943722
+      Arrow L: -8935470580138068070
+      Arrow R: 1979085301744057317
+      Bert Looking B L: 233268978605601700
+      Bert looking B R: 851478519135984019
+      Bert looking more Top R: -2399544423530212532
+      Bert looking more top L: 9200966131050220466
+      Bert looking top L: -1245603549
+      Bert looking top R: 7329533981879916679
+      Coli looking L: -6202240153802655831
+      Coli looking L S: -934175774179417901
+      Coli looking R: 3257481530781262157
+      Coli looking R S: -801135007
+      Coli looking TL: -6949635812651794695
+      Coli looking TLS: -201698588
+      Coli looking TR: 8760402443470717540
+      Coli looking TRS: 916875504
+      Elevator 1: 1806056995
+      Elevator 2: 1683173380
+      Elevator 3: -1200038274
+      Elevator 4: 1950956586
+      Elevator 5 Used: 1675447864
+      Green Ball R: 1097769564
+      Green ball S: 1057155168
+      M Square T: -913171444
+      M Square not T: 1173541423
+      Purple Ball R: -2019290433
+      Purple Ball S: -521301258
+      QBert looking Backwards: -5885225234271612171
+      QBert looking bottom left: 8305611035590491804
+      QBert looking left: -5168313174812866197
+      QBert looking more top right: -1169813508023199180
+      QBert looking top left: 6815380662746787979
+      QBert looking top right: -2465350454401272783
+      Red Ball R: -1878045980
+      Red ball S: -485085302
+      Small Cube B: 1292228331
+      Small Cube Y: -420219195
+      Square T: -65459486
+      Square not T: 1405364067
+      qbert lives icon L: 445840719523252873
+      qbert lives icon R: 6657544215680913721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
