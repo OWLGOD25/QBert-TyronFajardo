@@ -13,59 +13,66 @@ public class TileChange : MonoBehaviour {
 	public Sprite leftJumpDown;
 	public Sprite rightJumpUp;
 
-	void OnTriggerEnter2D (Collider2D other) {
+	void OnCollisionEnter2D (Collision2D other) {
 
-		if(other.tag == "Player"){
+        if (other.gameObject.tag == "Player" && !didTouch)
+        {
+
+			Debug.Log("Player has landed on another tile");
 
 			GameObject thePlayer = GameObject.Find("Player");
 			PlayerMovement playerScript = thePlayer.GetComponent<PlayerMovement>();
-			other.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;		
-			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.0695f, this.transform.position.z);
-			if(check == 0){
-			Instantiate (tilePrefab, new Vector3(this.transform.position.x, this.transform.position.y), Quaternion.identity) ;
-			}
+			other.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;		
+			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.12f, this.transform.position.z);
+			playerScript.isTouchingTile = true;
+			this.enabled = false;
+            if (check == 0){
+                Instantiate(tilePrefab,new Vector3(this.transform.position.x, this.transform.position.y),Quaternion.identity);
+
+                Destroy(gameObject);
+            }
 			check++;
 			didTouch = true;
 
 			if(playerScript.didLeftJumpDown){
-				other.GetComponent<SpriteRenderer>().sprite = leftJumpDown;
+				other.gameObject.GetComponent<SpriteRenderer>().sprite = leftJumpDown;
 
 			}
 			if(playerScript.didRightJumpDown){
-				other.GetComponent<SpriteRenderer>().sprite = rightJumpDown;
+				other.gameObject.GetComponent<SpriteRenderer>().sprite = rightJumpDown;
 
 			}
 			if(playerScript.didLeftJumpUp){
-				other.GetComponent<SpriteRenderer>().sprite = leftJumpUp;
+				other.gameObject.GetComponent<SpriteRenderer>().sprite = leftJumpUp;
 
 			}
 			if(playerScript.didRightJumpUp){
-				other.GetComponent<SpriteRenderer>().sprite = rightJumpUp;
+				other.gameObject.GetComponent<SpriteRenderer>().sprite = rightJumpUp;
 
 			}
 	}
 
-		if (other.tag == "Enemy") {
-			other.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+		if (other.gameObject.tag == "Enemy") {
+			other.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
 			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.05f, this.transform.position.z);
 
 		}
 
-		if (other.tag == "Coily") {
-			other.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+		if (other.gameObject.tag == "Coily") {
+			other.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
 			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.05f, this.transform.position.z);
 
 		}
 
 
-		if (other.tag == "CoilyBall") {
-			other.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+		if (other.gameObject.tag == "CoilyBall") {
+			other.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
 			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.05f, this.transform.position.z);
 
 		}
 
-		if (other.tag == "GreenBall") {
-			other.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+		if (other.gameObject.tag == "GreenBall") {
+			other.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
 			other.transform.position =  new Vector3(this.transform.position.x, this.transform.position.y + 0.05f, this.transform.position.z);
 
 		}

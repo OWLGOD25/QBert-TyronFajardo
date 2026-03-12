@@ -215,7 +215,10 @@ public class PlayerMovement : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D (Collider2D other) {
-		if (other.tag == "Elevator2" || other.tag == "Elevator1") {
+
+        Debug.Log("Player touched: " + other.tag);
+
+        if (other.tag == "Elevator2" || other.tag == "Elevator1") {
 			sprite.sortingOrder = 6;
 			myScriptsRigidbody2D.linearVelocity = Vector2.zero;
 			isOnElevator = true;

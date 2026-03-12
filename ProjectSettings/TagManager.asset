@@ -9,6 +9,10 @@ TagManager:
   - CoilyBall
   - Coily
   - CoilyStop
+  - Touched
+  - Untouched
+  - DeadPlayer
+  - SetAlive
   layers:
   - Default
   - TransparentFX
